@@ -1,2 +1,2 @@
-# week-5-work-day-sheduler-challenge-ts
+# week-5-work-day-scheduler-challenge-ts
 Work Day Scheduler ~ Third Party APIs
